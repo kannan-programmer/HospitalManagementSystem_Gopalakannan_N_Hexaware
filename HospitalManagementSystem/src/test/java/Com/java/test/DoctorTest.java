@@ -23,7 +23,7 @@ public class DoctorTest {
     public void testNoArgsConstructor() {
         Doctor doctor = new Doctor();
 
-        assertNotNull(doctor); // Object should be created
+        assertNotNull(doctor); 
     }
 
     @Test
