@@ -53,10 +53,10 @@ insert into doctor (firstname, lastname, specialization, contactnumber) values
 ('Revathi', 'Balaji', 'Gynecologist', '9000044455'),
 ('Mohan', 'Das', 'Pediatrician', '9000055566'),
 ('Anand', 'Shankar', 'Neurologist', '9000066677'),
-('Swathi', 'Rao', 'ENT Specialist', '9000077788'),
-('Girish', 'Naidu', 'Urologist', '9000088899'),
+('Swathi', 'Ravi', 'ENT Specialist', '9000077788'),
+('Girish', 'Nandhan', 'Urologist', '9000088899'),
 ('Bhavani', 'Murthy', 'Psychiatrist', '9000099900'),
-('Harish', 'Iyer', 'General Physician', '9000100011');
+('Harish', 'Iyyapan', 'General Physician', '9000100011');
 
 --  10 sample appointments
 insert into appointment (patientid, doctorid, appointmentdate, description) values
